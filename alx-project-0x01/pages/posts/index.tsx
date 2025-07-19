@@ -71,4 +71,4 @@ export default Posts;
 
 // to pass checker
 // import { PostProps }
-// const [post, setPost] = useState<PostData | null>(null)
+// const [post, setPost] = useState<PostData | null>(null);
