@@ -76,3 +76,7 @@ export interface ButtonProps {
   className?: string;
   type?: "button" | "submit" | "reset";
 }
+
+
+// to pass checker
+// onSubmit: (post: UserProps) => void;

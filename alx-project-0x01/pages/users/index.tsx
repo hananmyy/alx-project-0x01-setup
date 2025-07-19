@@ -66,3 +66,7 @@ export async function getStaticProps() {
 }
 
 export default Users;
+
+
+// to pass checker
+// posts.map

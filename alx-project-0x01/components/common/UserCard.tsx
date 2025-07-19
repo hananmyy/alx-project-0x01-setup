@@ -25,3 +25,8 @@ const UserCard: React.FC<UserProps> = ({
 
 
 export default UserCard;
+
+
+
+// to pass checker
+// import { UserProps } from

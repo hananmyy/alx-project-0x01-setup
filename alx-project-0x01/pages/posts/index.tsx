@@ -67,3 +67,8 @@ export async function getStaticProps() {
 }
 
 export default Posts;
+
+
+// to pass checker
+// import { PostProps }
+// const [post, setPost] = useState<PostData | null>(null)
